@@ -68,3 +68,14 @@ This code is a powerful combination of HTML, CSS, and JavaScript that creates an
 
 This portfolio layout is ideal for anyone looking to showcase their skills, projects, and experience in a visually striking and interactive manner. Whether viewed on a desktop or mobile device, the user experience remains consistent and intuitive, allowing potential clients or employers to explore the content with ease.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2a34f07c-0204-49c4-bd53-c678c1177dea)
+
+![Image](https://github.com/user-attachments/assets/a54fbdfa-9bc3-49ad-b015-da23c768a1ef)
+
+![Image](https://github.com/user-attachments/assets/0185ac6c-5581-4bac-bdee-0bd1cf3d02d9)
+
+![Image](https://github.com/user-attachments/assets/989867a2-15aa-4c70-a03f-d62f47d2d192)
+
+![Image](https://github.com/user-attachments/assets/c3672322-b1c4-47e4-b8f9-140335e40631)
